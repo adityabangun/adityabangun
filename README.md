@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨Hi! My name is Aditya, and I'm from Indonesia.<br>I'm passionate about technology and enjoy building web and mobile projects.<br>Currently exploring modern frontend frameworks and cross-platform app development.</p>
+<p align="left">✨My name is Aditya, and I'm from Indonesia.<br>I'm passionate about technology and enjoy building web and mobile projects.<br>Currently exploring modern frontend frameworks and cross-platform app development.</p>
 
 ###
 

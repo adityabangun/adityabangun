@@ -4,6 +4,7 @@
 
 <p align="left">✨My name is Aditya, and I'm from Indonesia.<br>I'm passionate about technology and enjoy building web and mobile projects.<br>Currently exploring modern frontend frameworks and cross-platform app development.</p>
 
+<!--
 ###
 
 <h2 align="left">I code with</h2>
@@ -34,6 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
 </div>
 
+-->
 ###
 
 ###
